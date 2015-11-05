@@ -1,5 +1,5 @@
 <?php
-require_once("/../src/Money.php");
+require_once("../src/Money.php");
 
 class MoneyTest extends PHPUnit_Framework_TestCase
 {
